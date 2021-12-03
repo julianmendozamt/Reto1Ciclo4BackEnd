@@ -1,0 +1,6 @@
+com\Reto1\springboot\app\Controllers\UserController.class
+com\Reto1\springboot\app\Ciclo4Reto1Application.class
+com\Reto1\springboot\app\Repository\UserRepository.class
+com\Reto1\springboot\app\CrudRepository\UserCrudRepository.class
+com\Reto1\springboot\app\Services\UserService.class
+com\Reto1\springboot\app\Models\entities\User.class
